@@ -134,4 +134,4 @@ You need to do is to save the code above to Ethereum Remix IDE as a .sol file an
 
 Then I could see my HXPT tokens are delivered to my MetaMask wallet.
 
-![sreenshot of my MetaMask wallet](/HXPT wallet screenshot.png)
+![sreenshot of my MetaMask wallet](/HXPT%20wallet%20screenshot.png)
